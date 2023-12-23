@@ -670,14 +670,17 @@ footer a:hover {
 }
 
 /* HP */
-@media (max-width: 450px) {
+@media (max-width: 350px) {
   html {
     font-size: 55%;
   }
   .kepo {
-    padding: 20rem 10rem;
+    padding: 20rem 8rem;
+  }
+  .quot p {
+    font-size: 55%;
   }
   .logo {
-    margin-left: 7rem;
+    margin-left: 5rem;
   }
 }
