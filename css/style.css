@@ -675,14 +675,9 @@ footer a:hover {
     font-size: 55%;
   }
   .kepo {
-    padding: 20rem 2rem;
-    margin: 10rem 3rem;
-  }
-  .quot p {
-    font-size: 55%;
-    font-family:italic;
+    padding: 20rem 10rem;
   }
   .logo {
-    margin-left: 6rem;
+    margin-left: 7rem;
   }
 }
